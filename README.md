@@ -22,6 +22,11 @@ This project is focused on designing and querying an eCommerce database using My
 - Data ingestion through ETL pipeline
 - SQL queries for key business insights
 
+## 🧬 Database Schema
+
+Here’s a visual representation of the eCommerce database schema:
+
+![eCommerce Schema](schema.png)
 
 ## 🧪 Sample Queries
 
