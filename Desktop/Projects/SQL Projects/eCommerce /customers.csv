@@ -1,0 +1,11 @@
+custID,custName,email,address
+1,John Doe,john.doe@email.com,"123 Main St, NY"
+2,Jane Smith,jane.smith@email.com,"456 Elm St, CA"
+3,Mike Johnson,mike.j@email.com,"789 Oak St, TX"
+4,Emily Davis,emily.d@email.com,"321 Pine St, FL"
+5,David Brown,david.b@email.com,"654 Cedar St, IL"
+6,Sarah White,sarah.w@email.com,"987 Maple St, WA"
+7,Kevin Lee,kevin.l@email.com,"741 Birch St, NV"
+8,Laura Wilson,laura.w@email.com,"852 Palm St, AZ"
+9,Tom Harris,tom.h@email.com,"369 Cherry St, NJ"
+10,Olivia Moore,olivia.m@email.com,"147 Spruce St, MI"

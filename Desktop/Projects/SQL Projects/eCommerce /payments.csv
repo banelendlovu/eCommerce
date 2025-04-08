@@ -1,0 +1,11 @@
+paymentID,amount,paymentMethod,paymentStatus,orderID
+1,15.99,Credit Card,Completed,1
+2,49.99,PayPal,Pending,2
+3,19.99,Apple Pay,Completed,3
+4,89.99,Bank Transfer,Failed,4
+5,129.99,Credit Card,Returned,5
+6,39.99,PayPal,Completed,6
+7,99.99,Apple Pay,Pending,7
+8,25.99,Credit Card,Completed,8
+9,9.99,Bank Transfer,Failed,9
+10,34.99,PayPal,Completed,10
