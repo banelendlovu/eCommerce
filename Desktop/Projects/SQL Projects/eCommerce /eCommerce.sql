@@ -1,4 +1,3 @@
-
 /* Creating Tables for eCommerce database */
 
 create table customers(

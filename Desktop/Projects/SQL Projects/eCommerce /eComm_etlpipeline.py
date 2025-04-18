@@ -2,17 +2,22 @@
 
 from sqlalchemy import create_engine
 import pandas as pd
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # Define databse connection parameters
 
-db_user = 'root'
-db_password = 'sqlprojects1.'
-db_host = 'localhost'
-db_name = 'eCommerce'
+db_user = os.getenv('DB_USER')
+db_password = os.getenv('DB_PASSWORD')
+db_host = os.getenv('DB_HOST')
+db_name = os.getenv('DB_NAME')
 
 # Create database connection string
+
 engine = create_engine(f"mysql+mysqlconnector://{db_user}:{db_password}@{db_host}/{db_name}")
-print("Database connection successfull!")
+print("Database connection successful!")
 
 # Queries to perform ETL operations
 

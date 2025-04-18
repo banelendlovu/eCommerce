@@ -9,7 +9,7 @@
     "zoomLevel": 1,
     "show": 431,
     "database": 4,
-    "databaseName": "",
+    "databaseName": "eCommerce",
     "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
@@ -69,15 +69,15 @@
           "R4DzLnJL-gYyUXfIfhwn_"
         ],
         "ui": {
-          "x": 99,
-          "y": 14,
+          "x": 102,
+          "y": 38,
           "zIndex": 2,
           "widthName": 63,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743321232377,
+          "updateAt": 1744100693543,
           "createAt": 1743316107865
         }
       },
@@ -101,15 +101,15 @@
           "4AQ86EeBD3LkeiBEFgnvo"
         ],
         "ui": {
-          "x": 93,
-          "y": 272,
+          "x": 96,
+          "y": 299,
           "zIndex": 81,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743537416007,
+          "updateAt": 1744100690526,
           "createAt": 1743316513963
         }
       },
@@ -136,15 +136,15 @@
           "TmXjM6o_YgXhQBp-be65D"
         ],
         "ui": {
-          "x": 642,
-          "y": 287,
+          "x": 695,
+          "y": 293,
           "zIndex": 139,
           "widthName": 73,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743383707093,
+          "updateAt": 1744100677126,
           "createAt": 1743316921366
         }
       },
@@ -171,14 +171,14 @@
         ],
         "ui": {
           "x": 92,
-          "y": 504,
+          "y": 510,
           "zIndex": 200,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743384398712,
+          "updateAt": 1744100684958,
           "createAt": 1743317562800
         }
       },
@@ -199,15 +199,15 @@
           "oBjSQXtdkwOsz5ttWVGAi"
         ],
         "ui": {
-          "x": 633,
-          "y": 533,
+          "x": 695,
+          "y": 537,
           "zIndex": 269,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743383754257,
+          "updateAt": 1744100673027,
           "createAt": 1743318005244
         }
       },
@@ -228,15 +228,15 @@
           "-YNFQZx9wDSWhFnjutZ_i"
         ],
         "ui": {
-          "x": 331,
-          "y": 724,
+          "x": 401,
+          "y": 728,
           "zIndex": 317,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743383886817,
+          "updateAt": 1744100669628,
           "createAt": 1743318254506
         }
       },
@@ -261,15 +261,15 @@
           "jy_QmXtuRW6kaG0c5whzL"
         ],
         "ui": {
-          "x": 569,
-          "y": 33,
+          "x": 663,
+          "y": 44,
           "zIndex": 352,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1743384067204,
+          "updateAt": 1744100681076,
           "createAt": 1743318460520
         }
       }
@@ -1187,8 +1187,8 @@
           "columnIds": [
             "DE9q4WaruYzcGsDmPEn79"
           ],
-          "x": 282,
-          "y": 166,
+          "x": 285,
+          "y": 190,
           "direction": 8
         },
         "end": {
@@ -1196,8 +1196,8 @@
           "columnIds": [
             "__-jOmOK9xfqLX5L6fDYX"
           ],
-          "x": 281.5,
-          "y": 272,
+          "x": 284.5,
+          "y": 299,
           "direction": 4
         },
         "meta": {
@@ -1215,8 +1215,8 @@
           "columnIds": [
             "X9YKoUQ7b74B3nwda0dVQ"
           ],
-          "x": 470,
-          "y": 386,
+          "x": 473,
+          "y": 413,
           "direction": 2
         },
         "end": {
@@ -1224,8 +1224,8 @@
           "columnIds": [
             "PnXAbHlqlc8pc8heIN5JD"
           ],
-          "x": 642,
-          "y": 331,
+          "x": 695,
+          "y": 337,
           "direction": 1
         },
         "meta": {
@@ -1244,7 +1244,7 @@
             "x4mXz7mKXsjRqeMfrSaH4"
           ],
           "x": 476,
-          "y": 542,
+          "y": 548,
           "direction": 2
         },
         "end": {
@@ -1252,8 +1252,8 @@
           "columnIds": [
             "TmXjM6o_YgXhQBp-be65D"
           ],
-          "x": 642,
-          "y": 419,
+          "x": 695,
+          "y": 425,
           "direction": 1
         },
         "meta": {
@@ -1272,7 +1272,7 @@
             "x4mXz7mKXsjRqeMfrSaH4"
           ],
           "x": 476,
-          "y": 618,
+          "y": 624,
           "direction": 2
         },
         "end": {
@@ -1280,8 +1280,8 @@
           "columnIds": [
             "oBjSQXtdkwOsz5ttWVGAi"
           ],
-          "x": 633,
-          "y": 597,
+          "x": 695,
+          "y": 601,
           "direction": 1
         },
         "meta": {
@@ -1300,7 +1300,7 @@
             "x4mXz7mKXsjRqeMfrSaH4"
           ],
           "x": 284,
-          "y": 656,
+          "y": 662,
           "direction": 8
         },
         "end": {
@@ -1308,8 +1308,8 @@
           "columnIds": [
             "-YNFQZx9wDSWhFnjutZ_i"
           ],
-          "x": 331,
-          "y": 800,
+          "x": 401,
+          "y": 804,
           "direction": 1
         },
         "meta": {
@@ -1327,8 +1327,8 @@
           "columnIds": [
             "X9YKoUQ7b74B3nwda0dVQ"
           ],
-          "x": 470,
-          "y": 310,
+          "x": 473,
+          "y": 337,
           "direction": 2
         },
         "end": {
@@ -1336,8 +1336,8 @@
           "columnIds": [
             "jy_QmXtuRW6kaG0c5whzL"
           ],
-          "x": 569,
-          "y": 121,
+          "x": 663,
+          "y": 132,
           "direction": 1
         },
         "meta": {
@@ -1921,6 +1921,14 @@
         "name": 1743384397022,
         "dataType": 1743384403921,
         "options(notNull)": 1743384405170
+      }
+    ],
+    "settings.databaseName": [
+      "settings",
+      -1,
+      -1,
+      {
+        "databaseName": 1744100957535
       }
     ]
   }
