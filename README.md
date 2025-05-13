@@ -37,3 +37,4 @@ The project includes queries for:
 - Inventory tracking
 
 
+# SnackSmart
